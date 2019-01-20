@@ -19,3 +19,5 @@ git pull
 git push origin master
 	agrega los cambios locales a la rama master
 
+git push --set-upstream origin juan
+
