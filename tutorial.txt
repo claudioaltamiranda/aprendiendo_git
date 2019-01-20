@@ -1,0 +1,12 @@
+Comandos
+
+git clone para copiar un repositorio remoto en el equipo local, ejemplo:
+	git clone https://github.com/claudioaltamiranda/aprendiendo_git.git
+
+git remote -v 
+	lista los repositorios conectados
+
+git remote add xxx https://github.com/claudioaltamiranda/aprendiendo_git.git
+	crea un alias denominado xxx del repositorio https:// ...
+
+git fetch xxx
