@@ -10,3 +10,7 @@ git remote add xxx https://github.com/claudioaltamiranda/aprendiendo_git.git
 	crea un alias denominado xxx del repositorio https:// ...
 
 git fetch xxx
+git merge
+	traen los cambios desde el repositorio remoto
+
+
