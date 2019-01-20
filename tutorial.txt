@@ -16,3 +16,6 @@ git merge
 git pull
 	es equivalente a los dos comandos anteriores juntos
 
+git push origin master
+	agrega los cambios locales a la rama master
+
